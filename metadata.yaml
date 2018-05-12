@@ -1,4 +1,8 @@
 _repo: Two-Little-Pilgrims-Progress-A-Story-of-the-City-Beautiful_50471
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50471-h/images/cover.jpg
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/73
     wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50471#Two-Little-Pilgrims-Progress-A-Story-of-the-City-Beautiful
 gutenberg_issued: '2015-11-17'
 gutenberg_type: Text
 identifiers:
